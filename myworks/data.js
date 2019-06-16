@@ -1,0 +1,1 @@
+var myData={designer:{name:'林悦欣',phone:'13428052640',tag:["#爱生活#爱设计#待业"],bg:'#397cf9'},gallery:[{src:"myworks/7d7c0fd1-a6c7-4ba2-944f-85720090f1de.jpeg",w:4094,h:3071},{src:"myworks/1.jpg",w:375,h:298},]}
